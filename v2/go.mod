@@ -1,4 +1,4 @@
-module github.com/adshao/go-binance/v2
+module github.com/m4rc1e/go-binance/v2
 
 go 1.13
 
